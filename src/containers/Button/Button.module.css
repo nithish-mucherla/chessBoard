@@ -1,0 +1,20 @@
+.Button{
+    position: absolute;
+    top:50vh;
+    left:47vw;
+    width: 10vw;
+    height: 5vh;
+    background-color: rgb(89, 89, 165);
+    border-radius: 1em;
+    cursor: pointer;
+    padding:1vh;
+  }
+  
+  .ButtonText{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    text-align: center;
+    color:white;
+    font-weight: bolder;
+  }
+  
